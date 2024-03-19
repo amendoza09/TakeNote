@@ -5,5 +5,5 @@ export const Footer = () => {
     <div className="flex item-center w-full p-6 bg-background z-50">
       <Logo />
     </div>
-  );
-};
+  )
+}

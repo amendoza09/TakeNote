@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 
 const font = Poppins({
   subsets: ["latin"],
-  weight: ["400", "600"],
+  weight: ["400", "600"]
 });
 
 export const Logo = () => {
@@ -15,5 +15,5 @@ export const Logo = () => {
         2024 Antonio Mendoza
       </p>
     </div>
-  );
-};
+  )
+}
