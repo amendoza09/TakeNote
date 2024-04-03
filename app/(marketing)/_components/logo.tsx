@@ -10,7 +10,7 @@ const font = Poppins({
 export const Logo = () => {
   return (
     <div className="hidden mf:flex item-center gap-x-2">
-      <Image src="" height="40" width="40" alt="logo" />
+      <Image src="/" height="40" width="40" alt="logo" />
       <p className={cn("font-semibold", font.className)}>
         2024 Antonio Mendoza
       </p>
